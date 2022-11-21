@@ -1,4 +1,4 @@
-#Sprint 1
+# Sprint 1
 - [X] Approved pjoject topic
 - [x] Establish GitHub account
 - [x] Be associated with ownership of a code repository in KSU-IS Organization
