@@ -11,3 +11,5 @@
 - [x] Edited and fixed the format of my roadmap
 - [x] Begun working on code and following tutorials
 - [x] Added more information to the ReadMe file
+- [x] Make small updates and add commit messages
+- [x] Track progress in project road map
