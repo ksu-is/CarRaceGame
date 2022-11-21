@@ -1,4 +1,4 @@
-#Sprint 1
+# Sprint 1
 - [X] Approved pjoject topic
 - [x] Establish GitHub account
 - [x] Be associated with ownership of a code repository in KSU-IS Organization
@@ -8,3 +8,8 @@
 # Sprint 2
 - [x] Atleast 6 commits to repository -- curently 6
 - [x] Add useful comments to comits.
+- [x] Edited and fixed the format of my roadmap
+- [x] Begun working on code and following tutorials
+- [x] Added more information to the ReadMe file
+- [x] Make small updates and add commit messages
+- [x] Track progress in project road map
