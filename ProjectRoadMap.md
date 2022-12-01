@@ -16,6 +16,6 @@
 # Sprint 3
 - [x] Create power point slide to complete sprint 3
 - [x] Continue working on code
-- [x] continue working on final presentation power point
+- [x] Continue working on final presentation power point
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/77431828/204963837-62dc4e3b-db04-499e-97a4-e834bd44158e.png)
