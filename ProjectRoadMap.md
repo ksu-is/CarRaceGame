@@ -12,3 +12,7 @@
 - [x] Added more information to the ReadMe file
 - [x] Make small updates and add commit messages
 - [x] Track progress in project road map
+
+# Sprint 3
+
+![Screenshot (123)](https://user-images.githubusercontent.com/77431828/204963837-62dc4e3b-db04-499e-97a4-e834bd44158e.png)
